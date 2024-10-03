@@ -1,0 +1,38 @@
+[
+    {
+        "Timestamp": [
+            "2024-10-03 12:46:29"
+        ],
+        "Name": [
+            "陳小香"
+        ],
+        "Age": [
+            "43"
+        ],
+        "Height (cm)": [
+            "160"
+        ],
+        "Weight (kg)": [
+            "50"
+        ],
+        "Gender": [
+            "女"
+        ],
+        "Activity Level": [
+            "無活動：久坐"
+        ],
+        "TDEE (kcal)": [
+            "1000.00 kcal"
+        ],
+        "Activity  (kcal)": [
+            "6.42"
+        ],
+
+        "Selected Meals": [
+            "Bread_320"
+        ],
+        "Selected Drinks": [
+            "Tea_192"
+        ]
+    }
+]

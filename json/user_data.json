@@ -1,0 +1,46 @@
+[
+    {
+        "Timestamp": [
+            "2024-10-03 12:46:29"
+        ],
+        "Name": [
+            "王小明"
+        ],
+        "Age": [
+            "25"
+        ],
+        "Height (cm)": [
+            "170"
+        ],
+        "Weight (kg)": [
+            "70"
+        ],
+        "Gender": [
+            "男"
+        ],
+        "Activity Level": [
+            "無活動：久坐"
+        ],
+        "TDEE (kcal)": [
+            "2046.00 kcal"
+        ],
+        "Activity  (kcal)": [
+            "12.42"
+        ],
+        "Activity1 Result (kcal)": [
+            "Pushup: 8Time, 3.20 kcal\nAbworkout: 7Time, 1.12 kcal\nSquat: 5Time, 2.10 kcal\nPullup: 6Time, 6.00 kcal\nRun: 0Time, 0.00 kcal\nJump: 0Time, 0.00 kcal\nRest: 0Time, 0.00 kcal\n\n總卡路里: 12.42 kcal"
+        ],
+        "Food Cost (kcal)": [
+            "512.00 kcal"
+        ],
+        "Remaining (kcal)": [
+            "1546.42 kcal"
+        ],
+        "Selected Meals": [
+            "Bread_320"
+        ],
+        "Selected Drinks": [
+            "Tea_192"
+        ]
+    }
+]

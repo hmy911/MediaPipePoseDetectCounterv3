@@ -1,0 +1,14 @@
+{
+    "meals": {
+        "Sandwich_230": 230,
+        "Hamburger_333": 333,
+        "Bread_320": 320,
+        "Hashbrowns_124": 124                       
+    },
+    "drinks": {
+        "Juice_147": 147,
+        "Coke_185": 185,
+        "Tea_192": 192,
+        "Coffee_256": 256
+    }
+}
